@@ -102,6 +102,10 @@
  .dev-pic img {
      height: 58vh;
  }
+ .image-cv {
+    display: flex;
+    justify-content: center;
+ }
 
  /* ye wali coding contact waly page ki hy  */
 
@@ -158,5 +162,60 @@
     /* padding: 5px 0px 0px 0px;
     margin: 15px 0px; */
     width: 90px;
-    /* height: 35px; */
+}
+.back-btn {
+    
+    /* height: 35px;display: flex; justify-content: center; */
+    font-size: 14px;
+    /* padding: 5px 0px 0px 0px;
+    margin: 15px 0px; */
+    width: 90px;
+
+
+ }
+ /* yahan say blog page ki css hy */
+
+.blog-container {
+    text-align: center;
+}
+
+.blog-item {
+    margin: 15px 10px;
+}
+.blog-item h2 {
+    text-align: left;
+    
+}
+.blog-item p {
+    font-weight: bold;
+     font-family: 'Source Code Pro', monospace;
+    margin: 15px 50px;
+ }
+ /* .btn-btn {
+    width: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 10px;
+    padding: -5px;
+    margin: 5px ;
+ } */
+
+ .name-one {
+    background-color: white;
+    color: dodgerblue;
+}
+.name-one:hover {
+    color: rgb(14, 110, 86);
+    background-color: white;
+ }
+ .my-intro {
+    /* margin: 0px 0px 25px 0px; */
+}
+.my-intro h2 {
+     font-size: xx-large;
+     
+    
+ }.my-intro p {
+    font-weight: bold;
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 25px;
  }
