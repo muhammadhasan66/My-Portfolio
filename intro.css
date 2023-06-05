@@ -1,0 +1,13 @@
+.project-heading {
+    text-align: center;
+}
+.my-Work {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+    background-color: cadetblue;
+} 
+.box img{
+border-radius: 40%;
+}

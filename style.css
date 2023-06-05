@@ -3,6 +3,9 @@
  @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
  /* ye wali coding start sy home page ki */
 
+ body{
+    /* height: 2000px; */
+ }
  * {
      margin: 0;
      padding: 0;
@@ -10,6 +13,7 @@
  }
 
  .sidebar {
+    /* padding-left: 0px; */
      background-color: rgb(204, 197, 197);
      width: 165px;
      height: 100vh;
@@ -17,7 +21,7 @@
  }
 
  .sidebar nav {
-     padding: 30px;
+     padding: 10px;
  }
 
  .sidebar nav li {
