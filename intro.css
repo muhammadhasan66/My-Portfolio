@@ -1,5 +1,7 @@
 .project-heading {
     text-align: center;
+    background-color: black;
+    color: white;
 }
 .my-Work {
     display: flex;
@@ -10,4 +12,13 @@
 } 
 .box img{
 border-radius: 40%;
+}
+.footer {
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    background-color: gray;
+    color: black;
 }

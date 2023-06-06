@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* body {
+    height: 100vh;
+    width: 100%;
+} */
 .navbar-centre{
     margin-top: 10px;
     display: flex;
@@ -55,3 +59,12 @@ h1 {
 .color-span {
     color: dodgerblue;
 }
+/* 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    background-color: gray;
+    color: black;
+} */

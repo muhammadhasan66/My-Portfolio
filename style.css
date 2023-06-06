@@ -223,3 +223,15 @@ font-size: 10px;
     font-family: 'Source Code Pro', monospace;
     margin-top: 25px;
  }
+
+
+ /* Footer  */
+  .footer {
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    background-color: gray;
+    color: black;
+} 
